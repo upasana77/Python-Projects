@@ -1,4 +1,4 @@
-# Python-Projects
+# Python-Projects(Stock-Share Analysis)
 A company's stock share is a piece of the company; more precisely:
 
 A stock (also known as equity) is a security that represents the ownership of a fraction of a corporation. This
